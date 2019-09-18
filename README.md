@@ -7,7 +7,7 @@ Calcula Sistema de Denavit-Hartenberg em Matrizes de Transformação Homogênea.
 Faça o Download e execute o arquivo (atalho) "Denavit-Hartenberg"
 
 ### PrintScreen
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![printscreen](https://raw.githubusercontent.com/LeonardoFeriato/Denavit-Hartenberg/master/denavit.png)
 
 ### Informações Técnicas
 ```
